@@ -4,15 +4,15 @@ Welcome to the Simple Counter Web App project! This is a basic web application t
 
 ## Required Prerequisite
 
-    Begin by installing the "Live Server" extension by Ritwick Dey for Visual Studio Code. This extension enables you to easily run HTML files in your browser.
+1. Begin by installing the "Live Server" extension by Ritwick Dey for Visual Studio Code. This extension enables you to easily run HTML files in your browser.
 
-    Open Visual Studio Code, and on the left-hand side, click on the "Extensions" icon.
+2. Open Visual Studio Code, and on the left-hand side, click on the "Extensions" icon.
 
-    In the search bar, type "Live Server" by Ritwick Dey and select the extension from the results. Install it.
+3. In the search bar, type "Live Server" by Ritwick Dey and select the extension from the results. Install it.
 
-    Once the extension is installed, open the HTML file that you've cloned or created. You'll notice a new option at the bottom of your window labeled "Go Live".
+4. Once the extension is installed, open the HTML file that you've cloned or created. You'll notice a new option at the bottom of your window labeled "Go Live".
 
-    Click on "Go Live". This will automatically serve your HTML file on a localhost server.
+5. Click on "Go Live". This will automatically serve your HTML file on a localhost server.
 
 ## Contributing (What you need to do)
 
@@ -20,11 +20,11 @@ If you've followed the previous steps correctly, you should see a webpage displa
 
 Here's how you can proceed:
 
-    Begin by modifying the code in the index.js file to ensure the counter buttons work as expected.
+1. Begin by modifying the code in the index.js file to ensure the counter buttons work as expected.
 
-    Once you've completed the above task, verify that the count functionality is now operational. Clicking "+" should increment the count, while clicking "-" should decrement it.
+2. Once you've completed the above task, verify that the count functionality is now operational. Clicking "+" should increment the count, while clicking "-" should decrement it.
 
-    For the next task, implement a feature to prevent the count from going below zero.
+3. For the next task, implement a feature to prevent the count from going below zero.
 
 Note: It's recommended to attempt these tasks independently. If you encounter difficulties, don't hesitate to utilize resources like Google or ChatGPT. This is a common practice among developers; they often spend more time troubleshooting and fixing bugs than writing new code. Remember, seeking help is a crucial part of the development process.
 
