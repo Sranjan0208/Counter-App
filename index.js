@@ -9,13 +9,14 @@ document.addEventListener("DOMContentLoaded", function () {
 
 
   document.getElementById("increment").addEventListener("click", function () {
-    count;
+    count++;
     updateCount();
   });
 
 
   document.getElementById("decrement").addEventListener("click", function () {
-    count;
+    if (count>0)
+    count--;
     updateCount();
   });
 });
